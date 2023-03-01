@@ -20,6 +20,6 @@
   <a href="https://www.linkedin.com/in/davi-trajano-902483205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/SirDavi/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
  
-  ![Snake animation](https://github.com/davi-tr/davi-tr/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/davi-tr/davi-tr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
